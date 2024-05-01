@@ -125,3 +125,8 @@ td:hover {
 button:hover {
     background-color: rgb(152, 196, 184);
 }
+
+button:active {
+    background-color: #667266;
+    transform: translateY(4px);
+}
